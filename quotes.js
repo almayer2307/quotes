@@ -9,11 +9,11 @@
             "by": "Bornstein"
         },
         {
-            "quote": "No amount of graph paper will save you.",
+            "quote": "No amount of toilet paper will save you.",
             "by": "Bornstein"
         },
         {
-            "quote": "Clear your cache, kill an animal... do whatever it takes.",
+            "quote": "Clear your cache, backhand someone's grandma, kill an animal... do whatever it takes.",
             "by": "Bornstein"
         },
         {
